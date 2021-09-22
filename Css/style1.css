@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+
+    background-image: url(../images/truck.png);
+}
+
+.form{
+    line-height: 20px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+h1{
+    margin-left: 200px;
+    margin-top: 80px;
+}
+
+.calculate{
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+  
+  }
+  
+  .col-form-label{
+  
+    font-size:18px;
+    font-weight: bold;
+    margin-bottom:20px;
+  }
+  
+  .form-control {
+    border: 1px solid #000000;
+    padding-left: 100px;
+    padding-bottom: 10px;
+  }
+  
+.mid-box{
+    margin-bottom: 30px;
+}
+ p{
+    font-size:14px;
+    font-weight: lighter;
+  
+ } 
+
+.formula{
+    margin-top: 20px;
+  
+}
+  .btn-confirm,.btn-enter,.btn-submit{
+      padding-left: 10px;
+      padding: 10px 10px;
+      background-color: rgb(33, 158, 230);
+  }
+  .btn-calculate{
+    padding-left: 60px;
+    padding: 10px 10px;
+    background-color: rgb(52, 204, 103);
+}
+
+  }
